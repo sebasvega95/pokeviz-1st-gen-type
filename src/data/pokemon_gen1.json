@@ -1,0 +1,1361 @@
+﻿[
+  {
+    "name": "bulbasaur",
+    "pokedexEntry":
+      "A strange seed was planted on its back at birth. The plant sprouts and grows with this POKéMON.",
+    "type": ["grass", "poison"],
+    "weigth": 6.9,
+    "height": 0.7,
+    "species": "Seed"
+  },
+  {
+    "name": "ivysaur",
+    "type": ["grass", "poison"],
+    "pokedexEntry":
+      "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+    "weigth": 13.0,
+    "height": 1.0,
+    "species": "Seed"
+  },
+  {
+    "name": "venusaur",
+    "type": ["grass", "poison"],
+    "pokedexEntry":
+      "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+    "weigth": 100.0,
+    "height": 2.0,
+    "species": "Seed"
+  },
+  {
+    "name": "charmander",
+    "type": ["fire"],
+    "pokedexEntry":
+      "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail.",
+    "weigth": 8.5,
+    "height": 0.6,
+    "species": "Lizard"
+  },
+  {
+    "name": "charmeleon",
+    "type": ["fire"],
+    "pokedexEntry":
+      "When it swings its burning tail, it elevates the temperature to unbearably high levels.",
+    "weigth": 19.0,
+    "height": 1.1,
+    "species": "Flame"
+  },
+  {
+    "name": "charizard",
+    "type": ["fire", "flying"],
+    "pokedexEntry":
+      "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
+    "weigth": 90.5,
+    "height": 1.7,
+    "species": "Flame"
+  },
+  {
+    "name": "squirtle",
+    "type": ["water"],
+    "pokedexEntry":
+      "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
+    "weigth": 9.0,
+    "height": 0.5,
+    "species": "Tiny Turtle"
+  },
+  {
+    "name": "wartortle",
+    "type": ["water"],
+    "pokedexEntry":
+      "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
+    "weigth": 22.5,
+    "height": 1.0,
+    "species": "Turtle"
+  },
+  {
+    "name": "blastoise",
+    "type": ["water"],
+    "pokedexEntry":
+      "A brutal POKéMON with pressurized water jets on its shell. They are used for high speed tackles.",
+    "weigth": 85.5,
+    "height": 1.6,
+    "species": "Shellfish"
+  },
+  {
+    "name": "caterpie",
+    "type": ["bug"],
+    "pokedexEntry":
+      "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+    "weigth": 2.9,
+    "height": 0.3,
+    "species": "Worm"
+  },
+  {
+    "name": "metapod",
+    "type": ["bug"],
+    "pokedexEntry":
+      "This POKéMON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
+    "weigth": 9.9,
+    "height": 0.7,
+    "species": "Cocoon"
+  },
+  {
+    "name": "butterfree",
+    "type": ["bug", "flying"],
+    "pokedexEntry":
+      "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
+    "weigth": 32.0,
+    "height": 1.1,
+    "species": "Butterfly"
+  },
+  {
+    "name": "weedle",
+    "type": ["bug", "poison"],
+    "pokedexEntry":
+      "Often found in forests, eating leaves. It has a sharp venomous stinger on its head.",
+    "weigth": 3.2,
+    "height": 0.3,
+    "species": "Hairy"
+  },
+  {
+    "name": "kakuna",
+    "type": ["bug", "poison"],
+    "pokedexEntry":
+      "Almost incapable of moving, this POKéMON can only harden its shell to protect itself from predators.",
+    "weigth": 10.0,
+    "height": 0.6,
+    "species": "Cocoon"
+  },
+  {
+    "name": "beedrill",
+    "type": ["bug", "poison"],
+    "pokedexEntry":
+      "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.",
+    "weigth": 29.5,
+    "height": 1.0,
+    "species": "Poison Bee"
+  },
+  {
+    "name": "pidgey",
+    "type": ["normal", "flying"],
+    "pokedexEntry":
+      "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
+    "weigth": 1.8,
+    "height": 0.3,
+    "species": "Tiny Bird"
+  },
+  {
+    "name": "pidgeotto",
+    "type": ["normal", "flying"],
+    "pokedexEntry":
+      "Very protective of its sprawling territorial area, this POKéMON will fiercely peck at any intruder.",
+    "weigth": 30.0,
+    "height": 1.1,
+    "species": "Bird"
+  },
+  {
+    "name": "pidgeot",
+    "type": ["normal", "flying"],
+    "pokedexEntry":
+      "When hunting, it skims the surface of water at high speed to pick off unwary prey such as MAGIKARP.",
+    "weigth": 39.5,
+    "height": 1.5,
+    "species": "Bird"
+  },
+  {
+    "name": "rattata",
+    "type": ["normal"],
+    "pokedexEntry":
+      "Bites anything when it attacks. Small and very quick, it is a common sight in many places.",
+    "weigth": 3.5,
+    "height": 0.3,
+    "species": "Mouse"
+  },
+  {
+    "name": "raticate",
+    "type": ["normal"],
+    "pokedexEntry":
+      "It uses its whiskers to maintain its balance. It apparently slows down if they are cut off.",
+    "weigth": 18.5,
+    "height": 0.7,
+    "species": "Mouse"
+  },
+  {
+    "name": "spearow",
+    "type": ["normal", "flying"],
+    "pokedexEntry":
+      "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.",
+    "weigth": 2.0,
+    "height": 0.3,
+    "species": "Tiny Bird"
+  },
+  {
+    "name": "fearow",
+    "type": ["normal", "flying"],
+    "pokedexEntry":
+      "With its huge and magnificent wings, it can keep aloft without ever having to land for rest.",
+    "weigth": 38.0,
+    "height": 1.2,
+    "species": "Beak"
+  },
+  {
+    "name": "ekans",
+    "type": ["poison"],
+    "pokedexEntry":
+      "Moves silently and stealthily. Eats the eggs of birds, such as PIDGEY and SPEAROW, whole.",
+    "weigth": 6.9,
+    "height": 2.0,
+    "species": "Snake"
+  },
+  {
+    "name": "arbok",
+    "type": ["poison"],
+    "pokedexEntry":
+      "It is rumored that the ferocious warning markings on its belly differ from area to area.",
+    "weigth": 65.0,
+    "height": 3.5,
+    "species": "Cobra"
+  },
+  {
+    "name": "pikachu",
+    "type": ["electric"],
+    "pokedexEntry":
+      "When several of these POKéMON gather, their electricity could build and cause lightning storms.",
+    "weigth": 6.0,
+    "height": 0.4,
+    "species": "Mouse"
+  },
+  {
+    "name": "raichu",
+    "type": ["electric"],
+    "pokedexEntry":
+      "Its long tail serves as a ground to protect itself from its own high voltage power.",
+    "weigth": 30.0,
+    "height": 0.8,
+    "species": "Mouse"
+  },
+  {
+    "name": "sandshrew",
+    "type": ["ground"],
+    "pokedexEntry":
+      "Burrows deep underground in arid locations far from water. It only emerges to hunt for food.",
+    "weigth": 12.0,
+    "height": 0.6,
+    "species": "Mouse"
+  },
+  {
+    "name": "sandslash",
+    "type": ["ground"],
+    "pokedexEntry":
+      "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
+    "weigth": 29.5,
+    "height": 1.0,
+    "species": "Mouse"
+  },
+  {
+    "name": "nidoran♀",
+    "type": ["poison"],
+    "pokedexEntry":
+      "Although small, its venomous barbs render this POKéMON dangerous. The female has smaller horns.",
+    "weigth": 7.0,
+    "height": 0.4,
+    "species": "Poison Pin"
+  },
+  {
+    "name": "nidorina",
+    "type": ["poison"],
+    "pokedexEntry":
+      "The female's horn develops slowly. Prefers physical attacks such as clawing and biting.",
+    "weigth": 20.0,
+    "height": 0.8,
+    "species": "Poison Pin"
+  },
+  {
+    "name": "nidoqueen",
+    "type": ["poison", "ground"],
+    "pokedexEntry":
+      "Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves.",
+    "weigth": 60.0,
+    "height": 1.3,
+    "species": "Drill"
+  },
+  {
+    "name": "nidoran♂",
+    "type": ["poison"],
+    "pokedexEntry":
+      "Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom.",
+    "weigth": 9.0,
+    "height": 0.5,
+    "species": "Poison Pin"
+  },
+  {
+    "name": "nidorino",
+    "type": ["poison"],
+    "pokedexEntry":
+      "An aggressive POKéMON that is quick to attack. The horn on its head secretes a powerful venom.",
+    "weigth": 19.5,
+    "height": 0.9,
+    "species": "Poison Pin"
+  },
+  {
+    "name": "nidoking",
+    "type": ["poison", "ground"],
+    "pokedexEntry":
+      "It uses its powerful tail in battle to smash, constrict, then break the prey's bones.",
+    "weigth": 62.0,
+    "height": 1.4,
+    "species": "Drill"
+  },
+  {
+    "name": "clefairy",
+    "type": ["normal"],
+    "pokedexEntry":
+      "Its magical and cute appeal has many admirers. It is rare and found only in certain areas.",
+    "weigth": 7.5,
+    "height": 0.6,
+    "species": "Fairy"
+  },
+  {
+    "name": "clefable",
+    "type": ["normal"],
+    "pokedexEntry":
+      "A timid fairy POKéMON that is rarely seen. It will run and hide the moment it senses people.",
+    "weigth": 40.0,
+    "height": 1.3,
+    "species": "Fairy"
+  },
+  {
+    "name": "vulpix",
+    "type": ["fire"],
+    "pokedexEntry":
+      "At the time of birth, it has just one tail. The tail splits from its tip as it grows older.",
+    "weigth": 9.9,
+    "height": 0.6,
+    "species": "Fox"
+  },
+  {
+    "name": "ninetales",
+    "type": ["fire"],
+    "pokedexEntry":
+      "Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse.",
+    "weigth": 19.9,
+    "height": 1.1,
+    "species": "Fox"
+  },
+  {
+    "name": "jigglypuff",
+    "type": ["normal"],
+    "pokedexEntry":
+      "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
+    "weigth": 5.5,
+    "height": 0.5,
+    "species": "Balloon"
+  },
+  {
+    "name": "wigglytuff",
+    "type": ["normal"],
+    "pokedexEntry":
+      "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
+    "weigth": 12.0,
+    "height": 1.0,
+    "species": "Balloon"
+  },
+  {
+    "name": "zubat",
+    "type": ["poison", "flying"],
+    "pokedexEntry":
+      "Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.",
+    "weigth": 7.5,
+    "height": 0.8,
+    "species": "Bat"
+  },
+  {
+    "name": "golbat",
+    "type": ["poison", "flying"],
+    "pokedexEntry":
+      "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
+    "weigth": 55.0,
+    "height": 1.6,
+    "species": "Bat"
+  },
+  {
+    "name": "oddish",
+    "type": ["grass", "poison"],
+    "pokedexEntry":
+      "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
+    "weigth": 5.4,
+    "height": 0.5,
+    "species": "Weed"
+  },
+  {
+    "name": "gloom",
+    "type": ["grass", "poison"],
+    "pokedexEntry":
+      "The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey.",
+    "weigth": 8.6,
+    "height": 0.8,
+    "species": "Weed"
+  },
+  {
+    "name": "vileplume",
+    "type": ["grass", "poison"],
+    "pokedexEntry":
+      "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
+    "weigth": 18.6,
+    "height": 1.2,
+    "species": "Flower"
+  },
+  {
+    "name": "paras",
+    "type": ["bug", "grass"],
+    "pokedexEntry":
+      "Burrows to suck tree roots. The mushrooms on its back grow by drawing nutrients from the bug host.",
+    "weigth": 5.4,
+    "height": 0.3,
+    "species": "Mushroom"
+  },
+  {
+    "name": "parasect",
+    "type": ["bug", "grass"],
+    "pokedexEntry":
+      "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.",
+    "weigth": 29.5,
+    "height": 1.0,
+    "species": "Mushroom"
+  },
+  {
+    "name": "venonat",
+    "type": ["bug", "poison"],
+    "pokedexEntry":
+      "Lives in the shadows of tall trees where it eats insects. It is attracted by light at night.",
+    "weigth": 30.0,
+    "height": 1.0,
+    "species": "Insect"
+  },
+  {
+    "name": "venomoth",
+    "type": ["bug", "poison"],
+    "pokedexEntry":
+      "The dust-like scales covering its wings are color coded to indicate the kinds of poison it has.",
+    "weigth": 12.5,
+    "height": 1.5,
+    "species": "Poison Moth"
+  },
+  {
+    "name": "diglett",
+    "type": ["ground"],
+    "pokedexEntry":
+      "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.",
+    "weigth": 0.8,
+    "height": 0.2,
+    "species": "Mole"
+  },
+  {
+    "name": "dugtrio",
+    "type": ["ground"],
+    "pokedexEntry":
+      "A team of DIGLETT triplets. It triggers huge earthquakes by burrowing 60 miles underground.",
+    "weigth": 33.3,
+    "height": 0.7,
+    "species": "Mole"
+  },
+  {
+    "name": "meowth",
+    "type": ["normal"],
+    "pokedexEntry":
+      "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.",
+    "weigth": 4.2,
+    "height": 0.4,
+    "species": "Scratch Cat"
+  },
+  {
+    "name": "persian",
+    "type": ["normal"],
+    "pokedexEntry":
+      "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
+    "weigth": 32.0,
+    "height": 1.0,
+    "species": "Classy Cat"
+  },
+  {
+    "name": "psyduck",
+    "type": ["water"],
+    "pokedexEntry":
+      "While lulling its enemies with its vacant look, this wily POKéMON will use psychokinetic powers.",
+    "weigth": 19.6,
+    "height": 0.8,
+    "species": "Duck"
+  },
+  {
+    "name": "golduck",
+    "type": ["water"],
+    "pokedexEntry":
+      "Often seen swimming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
+    "weigth": 76.6,
+    "height": 1.7,
+    "species": "Duck"
+  },
+  {
+    "name": "mankey",
+    "type": ["fighting"],
+    "pokedexEntry":
+      "Extremely quick to anger. It could be docile one moment then thrashing away the next instant.",
+    "weigth": 28.0,
+    "height": 0.5,
+    "species": "Pig Monkey"
+  },
+  {
+    "name": "primeape",
+    "type": ["fighting"],
+    "pokedexEntry":
+      "Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught.",
+    "weigth": 32.0,
+    "height": 1.0,
+    "species": "Pig Monkey"
+  },
+  {
+    "name": "growlithe",
+    "type": ["fire"],
+    "pokedexEntry":
+      "Very protective of its territory. It will bark and bite to repel intruders from its space.",
+    "weigth": 19.0,
+    "height": 0.7,
+    "species": "Puppy"
+  },
+  {
+    "name": "arcanine",
+    "type": ["fire"],
+    "pokedexEntry":
+      "A POKéMON that has been admired since the past for its beauty. It runs agilely as if on wings.",
+    "weigth": 155.0,
+    "height": 1.9,
+    "species": "Legendary"
+  },
+  {
+    "name": "poliwag",
+    "type": ["water"],
+    "pokedexEntry":
+      "Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.",
+    "weigth": 12.4,
+    "height": 0.6,
+    "species": "Tadpole"
+  },
+  {
+    "name": "poliwhirl",
+    "type": ["water"],
+    "pokedexEntry":
+      "Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",
+    "weigth": 20.0,
+    "height": 1.0,
+    "species": "Tadpole"
+  },
+  {
+    "name": "poliwrath",
+    "type": ["water", "fighting"],
+    "pokedexEntry":
+      "An adept swimmer at both the front crawl and breast stroke. Easily overtakes the best human swimmers.",
+    "weigth": 54.0,
+    "height": 1.3,
+    "species": "Tadpole"
+  },
+  {
+    "name": "abra",
+    "type": ["psychic"],
+    "pokedexEntry":
+      "Using its ability to read minds, it will identify impending danger and TELEPORT to safety.",
+    "weigth": 19.5,
+    "height": 0.9,
+    "species": "Psi"
+  },
+  {
+    "name": "kadabra",
+    "type": ["psychic"],
+    "pokedexEntry":
+      "It emits special alpha waves from its body that induce headaches just by being close by.",
+    "weigth": 56.5,
+    "height": 1.3,
+    "species": "Psi"
+  },
+  {
+    "name": "alakazam",
+    "type": ["psychic"],
+    "pokedexEntry":
+      "Its brain can outperform a supercomputer. Its intelligence quotient is said to be 5,000.",
+    "weigth": 48.0,
+    "height": 1.5,
+    "species": "Psi"
+  },
+  {
+    "name": "machop",
+    "type": ["fighting"],
+    "pokedexEntry":
+      "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
+    "weigth": 19.5,
+    "height": 0.8,
+    "species": "Superpower"
+  },
+  {
+    "name": "machoke",
+    "type": ["fighting"],
+    "pokedexEntry":
+      "Its muscular body is so powerful, it must wear a power save belt to be able to regulate its motions.",
+    "weigth": 70.5,
+    "height": 1.5,
+    "species": "Superpower"
+  },
+  {
+    "name": "machamp",
+    "type": ["fighting"],
+    "pokedexEntry":
+      "Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon.",
+    "weigth": 130.0,
+    "height": 1.6,
+    "species": "Superpower"
+  },
+  {
+    "name": "bellsprout",
+    "type": ["grass", "poison"],
+    "pokedexEntry":
+      "A carnivorous POKéMON that traps and eats bugs. It uses its root feet to soak up needed moisture.",
+    "weigth": 4.0,
+    "height": 0.7,
+    "species": "Flower"
+  },
+  {
+    "name": "weepinbell",
+    "type": ["grass", "poison"],
+    "pokedexEntry":
+      "It spits out POISONPOWDER to immobilize the enemy and then finishes it with a spray of ACID.",
+    "weigth": 6.4,
+    "height": 1.0,
+    "species": "Flycatcher"
+  },
+  {
+    "name": "victreebel",
+    "type": ["grass", "poison"],
+    "pokedexEntry":
+      "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
+    "weigth": 15.5,
+    "height": 1.7,
+    "species": "Flycatcher"
+  },
+  {
+    "name": "tentacool",
+    "type": ["water", "poison"],
+    "pokedexEntry":
+      "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.",
+    "weigth": 45.5,
+    "height": 0.9,
+    "species": "Jellyfish"
+  },
+  {
+    "name": "tentacruel",
+    "type": ["water", "poison"],
+    "pokedexEntry":
+      "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.",
+    "weigth": 55.0,
+    "height": 1.6,
+    "species": "Jellyfish"
+  },
+  {
+    "name": "geodude",
+    "type": ["rock", "ground"],
+    "pokedexEntry":
+      "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
+    "weigth": 20.0,
+    "height": 0.4,
+    "species": "Rock"
+  },
+  {
+    "name": "graveler",
+    "type": ["rock", "ground"],
+    "pokedexEntry":
+      "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.",
+    "weigth": 105.0,
+    "height": 1.0,
+    "species": "Rock"
+  },
+  {
+    "name": "golem",
+    "type": ["rock", "ground"],
+    "pokedexEntry":
+      "Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage.",
+    "weigth": 300.0,
+    "height": 1.4,
+    "species": "Megaton"
+  },
+  {
+    "name": "ponyta",
+    "type": ["fire"],
+    "pokedexEntry":
+      "Its hooves are 10 times harder than diamonds. It can trample anything completely flat in little time.",
+    "weigth": 30.0,
+    "height": 1.0,
+    "species": "Fire Horse"
+  },
+  {
+    "name": "rapidash",
+    "type": ["fire"],
+    "pokedexEntry":
+      "Very competitive, this POKéMON will chase anything that moves fast in the hopes of racing it.",
+    "weigth": 95.0,
+    "height": 1.7,
+    "species": "Fire Horse"
+  },
+  {
+    "name": "slowpoke",
+    "type": ["water", "psychic"],
+    "pokedexEntry":
+      "Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack.",
+    "weigth": 36.0,
+    "height": 1.2,
+    "species": "Dopey"
+  },
+  {
+    "name": "slowbro",
+    "type": ["water", "psychic"],
+    "pokedexEntry":
+      "The SHELLDER that is latched onto SLOWPOKE's tail is said to feed on the host's left over scraps.",
+    "weigth": 78.5,
+    "height": 1.6,
+    "species": "Hermit Crab"
+  },
+  {
+    "name": "magnemite",
+    "type": ["electric"],
+    "pokedexEntry":
+      "Uses anti-gravity to stay suspended. Appears without warning and uses THUNDER WAVE and similar moves.",
+    "weigth": 6.0,
+    "height": 0.3,
+    "species": "Magnet"
+  },
+  {
+    "name": "magneton",
+    "type": ["electric"],
+    "pokedexEntry":
+      "Formed by several MAGNEMITEs linked together. They frequently appear when sunspots flare up.",
+    "weigth": 60.0,
+    "height": 1.0,
+    "species": "Magnet"
+  },
+  {
+    "name": "farfetch'd",
+    "type": ["normal", "flying"],
+    "pokedexEntry":
+      "The sprig of green onions it holds is its weapon. It is used much like a metal sword.",
+    "weigth": 15.0,
+    "height": 0.8,
+    "species": "Wild Duck"
+  },
+  {
+    "name": "doduo",
+    "type": ["normal", "flying"],
+    "pokedexEntry":
+      "A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints.",
+    "weigth": 39.2,
+    "height": 1.4,
+    "species": "Twin Bird"
+  },
+  {
+    "name": "dodrio",
+    "type": ["normal", "flying"],
+    "pokedexEntry":
+      "Uses its three brains to execute complex plans. While two heads sleep, one head stays awake.",
+    "weigth": 85.2,
+    "height": 1.8,
+    "species": "Triple Bird"
+  },
+  {
+    "name": "seel",
+    "type": ["water"],
+    "pokedexEntry":
+      "The protruding horn on its head is very hard. It is used for bashing through thick ice.",
+    "weigth": 90.0,
+    "height": 1.1,
+    "species": "Sea Lion"
+  },
+  {
+    "name": "dewgong",
+    "type": ["water", "ice"],
+    "pokedexEntry":
+      "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.",
+    "weigth": 120.0,
+    "height": 1.7,
+    "species": "Sea Lion"
+  },
+  {
+    "name": "grimer",
+    "type": ["poison"],
+    "pokedexEntry":
+      "Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories.",
+    "weigth": 30.0,
+    "height": 0.9,
+    "species": "Sludge"
+  },
+  {
+    "name": "muk",
+    "type": ["poison"],
+    "pokedexEntry":
+      "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
+    "weigth": 30.0,
+    "height": 1.2,
+    "species": "Sludge"
+  },
+  {
+    "name": "shellder",
+    "type": ["water"],
+    "pokedexEntry":
+      "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
+    "weigth": 4.0,
+    "height": 0.3,
+    "species": "Bivalve"
+  },
+  {
+    "name": "cloyster",
+    "type": ["water", "ice"],
+    "pokedexEntry":
+      "When attacked, it launches its horns in quick volleys. Its innards have never been seen.",
+    "weigth": 132.5,
+    "height": 1.5,
+    "species": "Bivalve"
+  },
+  {
+    "name": "gastly",
+    "type": ["ghost", "poison"],
+    "pokedexEntry":
+      "Almost invisible, this gaseous POKéMON cloaks the target and puts it to sleep without notice.",
+    "weigth": 0.1,
+    "height": 1.3,
+    "species": "Gas"
+  },
+  {
+    "name": "haunter",
+    "type": ["ghost", "poison"],
+    "pokedexEntry":
+      "Because of its ability to slip through block walls, it is said to be from another dimension.",
+    "weigth": 0.1,
+    "height": 1.6,
+    "species": "Gas"
+  },
+  {
+    "name": "gengar",
+    "type": ["ghost", "poison"],
+    "pokedexEntry":
+      "Under a full moon, this POKéMON likes to mimic the shadows of people and laugh at their fright.",
+    "weigth": 40.5,
+    "height": 1.5,
+    "species": "Shadow"
+  },
+  {
+    "name": "onix",
+    "type": ["rock", "ground"],
+    "pokedexEntry":
+      "As it grows, the stone portions of its body harden to become similar to a diamond, but colored black.",
+    "weigth": 210.0,
+    "height": 8.8,
+    "species": "Rock Snake"
+  },
+  {
+    "name": "drowzee",
+    "type": ["psychic"],
+    "pokedexEntry":
+      "Puts enemies to sleep then eats their dreams. Occasionally gets sick from eating bad dreams.",
+    "weigth": 32.4,
+    "height": 1.0,
+    "species": "Hypnosis"
+  },
+  {
+    "name": "hypno",
+    "type": ["psychic"],
+    "pokedexEntry":
+      "When it locks eyes with an enemy, it will use a mix of PSI moves such as HYPNOSIS and CONFUSION.",
+    "weigth": 75.6,
+    "height": 1.6,
+    "species": "Hypnosis"
+  },
+  {
+    "name": "krabby",
+    "type": ["water"],
+    "pokedexEntry":
+      "Its pincers are not only powerful weapons, they are used for balance when walking sideways.",
+    "weigth": 6.5,
+    "height": 0.4,
+    "species": "River Crab"
+  },
+  {
+    "name": "kingler",
+    "type": ["water"],
+    "pokedexEntry":
+      "The large pincer has 10000 hp of crushing power. However, its huge size makes it unwieldy to use.",
+    "weigth": 60.0,
+    "height": 1.3,
+    "species": "Pincer"
+  },
+  {
+    "name": "voltorb",
+    "type": ["electric"],
+    "pokedexEntry":
+      "Usually found in power plants. Easily mistaken for a POKé BALL, they have zapped many people.",
+    "weigth": 10.4,
+    "height": 0.5,
+    "species": "Ball"
+  },
+  {
+    "name": "electrode",
+    "type": ["electric"],
+    "pokedexEntry":
+      "It stores electric energy under very high pressure. It often explodes with little or no provocation.",
+    "weigth": 66.6,
+    "height": 1.2,
+    "species": "Ball"
+  },
+  {
+    "name": "exeggcute",
+    "type": ["grass", "psychic"],
+    "pokedexEntry":
+      "Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.",
+    "weigth": 2.5,
+    "height": 0.4,
+    "species": "Egg"
+  },
+  {
+    "name": "exeggutor",
+    "type": ["grass", "psychic"],
+    "pokedexEntry":
+      "Legend has it that on rare occasions, one of its heads will drop off and continue on as an EXEGGCUTE.",
+    "weigth": 120.0,
+    "height": 2.0,
+    "species": "Coconut"
+  },
+  {
+    "name": "cubone",
+    "type": ["ground"],
+    "pokedexEntry":
+      "Because it never removes its skull helmet, no one has ever seen this POKéMON's real face.",
+    "weigth": 6.5,
+    "height": 0.4,
+    "species": "Lonely"
+  },
+  {
+    "name": "marowak",
+    "type": ["ground"],
+    "pokedexEntry":
+      "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.",
+    "weigth": 45.0,
+    "height": 1.0,
+    "species": "Bone Keeper"
+  },
+  {
+    "name": "hitmonlee",
+    "type": ["fighting"],
+    "pokedexEntry":
+      "When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides.",
+    "weigth": 49.8,
+    "height": 1.5,
+    "species": "Kicking"
+  },
+  {
+    "name": "hitmonchan",
+    "type": ["fighting"],
+    "pokedexEntry":
+      "While apparently doing nothing, it fires punches in lightning fast volleys that are impossible to see.",
+    "weigth": 50.2,
+    "height": 1.4,
+    "species": "Punching"
+  },
+  {
+    "name": "lickitung",
+    "type": ["normal"],
+    "pokedexEntry":
+      "Its tongue can be extended like a chameleon's. It leaves a tingling sensation when it licks enemies.",
+    "weigth": 65.5,
+    "height": 1.2,
+    "species": "Licking"
+  },
+  {
+    "name": "koffing",
+    "type": ["poison"],
+    "pokedexEntry":
+      "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.",
+    "weigth": 1.0,
+    "height": 0.6,
+    "species": "Poison Gas"
+  },
+  {
+    "name": "weezing",
+    "type": ["poison"],
+    "pokedexEntry":
+      "Where two kinds of poison gases meet, 2 KOFFINGs can fuse into a WEEZING over many years.",
+    "weigth": 9.5,
+    "height": 1.2,
+    "species": "Poison Gas"
+  },
+  {
+    "name": "rhyhorn",
+    "type": ["ground", "rock"],
+    "pokedexEntry":
+      "Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying.",
+    "weigth": 115.0,
+    "height": 1.0,
+    "species": "Spikes"
+  },
+  {
+    "name": "rhydon",
+    "type": ["ground", "rock"],
+    "pokedexEntry":
+      "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees.",
+    "weigth": 120.0,
+    "height": 1.9,
+    "species": "Drill"
+  },
+  {
+    "name": "chansey",
+    "type": ["normal"],
+    "pokedexEntry":
+      "A rare and elusive POKéMON that is said to bring happiness to those who manage to get it.",
+    "weigth": 34.6,
+    "height": 1.1,
+    "species": "Egg"
+  },
+  {
+    "name": "tangela",
+    "type": ["grass"],
+    "pokedexEntry":
+      "The whole body is swathed with wide vines that are similar to seaweed. Its vines shake as it walks.",
+    "weigth": 35.0,
+    "height": 1.0,
+    "species": "Vine"
+  },
+  {
+    "name": "kangaskhan",
+    "type": ["normal"],
+    "pokedexEntry":
+      "The infant rarely ventures out of its mother's protective pouch until it is 3 years old.",
+    "weigth": 80.0,
+    "height": 2.2,
+    "species": "Parent"
+  },
+  {
+    "name": "horsea",
+    "type": ["water"],
+    "pokedexEntry":
+      "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
+    "weigth": 8.0,
+    "height": 0.4,
+    "species": "Dragon"
+  },
+  {
+    "name": "seadra",
+    "type": ["water"],
+    "pokedexEntry":
+      "Capable of swimming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
+    "weigth": 25.0,
+    "height": 1.2,
+    "species": "Dragon"
+  },
+  {
+    "name": "goldeen",
+    "type": ["water"],
+    "pokedexEntry":
+      "Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen.",
+    "weigth": 15.0,
+    "height": 0.6,
+    "species": "Goldfish"
+  },
+  {
+    "name": "seaking",
+    "type": ["water"],
+    "pokedexEntry":
+      "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks.",
+    "weigth": 39.0,
+    "height": 1.3,
+    "species": "Goldfish"
+  },
+  {
+    "name": "staryu",
+    "type": ["water"],
+    "pokedexEntry":
+      "An enigmatic POKéMON that can effortlessly regenerate any appendage it loses in battle.",
+    "weigth": 34.5,
+    "height": 0.8,
+    "species": "Starshape"
+  },
+  {
+    "name": "starmie",
+    "type": ["water", "psychic"],
+    "pokedexEntry":
+      "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.",
+    "weigth": 80.0,
+    "height": 1.1,
+    "species": "Mysterious"
+  },
+  {
+    "name": "mr. mime",
+    "type": ["psychic"],
+    "pokedexEntry":
+      "If interrupted while it is miming, it will slap around the offender with its broad hands.",
+    "weigth": 54.5,
+    "height": 1.3,
+    "species": "Barrier"
+  },
+  {
+    "name": "scyther",
+    "type": ["bug", "flying"],
+    "pokedexEntry":
+      "With ninja-like agility and speed, it can create the illusion that there is more than one.",
+    "weigth": 56.0,
+    "height": 1.5,
+    "species": "Mantis"
+  },
+  {
+    "name": "jynx",
+    "type": ["ice", "psychic"],
+    "pokedexEntry":
+      "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.",
+    "weigth": 40.6,
+    "height": 1.4,
+    "species": "Humanshape"
+  },
+  {
+    "name": "electabuzz",
+    "type": ["electric"],
+    "pokedexEntry":
+      "Normally found near power plants, they can wander away and cause major blackouts in cities.",
+    "weigth": 30.0,
+    "height": 1.1,
+    "species": "Electric"
+  },
+  {
+    "name": "magmar",
+    "type": ["fire"],
+    "pokedexEntry":
+      "Its body always burns with an orange glow that enables it to hide perfectly among flames.",
+    "weigth": 44.5,
+    "height": 1.3,
+    "species": "Spitfire"
+  },
+  {
+    "name": "pinsir",
+    "type": ["bug"],
+    "pokedexEntry":
+      "If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",
+    "weigth": 55.0,
+    "height": 1.5,
+    "species": "Stagbeetle"
+  },
+  {
+    "name": "tauros",
+    "type": ["normal"],
+    "pokedexEntry":
+      "When it targets an enemy, it charges furiously while whipping its body with its long tails.",
+    "weigth": 88.4,
+    "height": 1.4,
+    "species": "Wild Bull"
+  },
+  {
+    "name": "magikarp",
+    "type": ["water"],
+    "pokedexEntry":
+      "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
+    "weigth": 10.0,
+    "height": 0.9,
+    "species": "Fish"
+  },
+  {
+    "name": "gyarados",
+    "type": ["water", "flying"],
+    "pokedexEntry":
+      "Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage.",
+    "weigth": 235.0,
+    "height": 6.5,
+    "species": "Atrocious"
+  },
+  {
+    "name": "lapras",
+    "type": ["water", "ice"],
+    "pokedexEntry":
+      "A POKéMON that has been overhunted almost to extinction. It can ferry people across the water.",
+    "weigth": 220.0,
+    "height": 2.5,
+    "species": "Transport"
+  },
+  {
+    "name": "ditto",
+    "type": ["normal"],
+    "pokedexEntry":
+      "Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy.",
+    "weigth": 4.0,
+    "height": 0.3,
+    "species": "Transform"
+  },
+  {
+    "name": "eevee",
+    "type": ["normal"],
+    "pokedexEntry":
+      "Its genetic code is irregular. It may mutate if it is exposed to radiation from element STONEs.",
+    "weigth": 6.5,
+    "height": 0.3,
+    "species": "Evolution"
+  },
+  {
+    "name": "vaporeon",
+    "type": ["water"],
+    "pokedexEntry":
+      "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
+    "weigth": 29.0,
+    "height": 1.0,
+    "species": "Bubble Jet"
+  },
+  {
+    "name": "jolteon",
+    "type": ["electric"],
+    "pokedexEntry":
+      "It accumulates negative ions in the atmosphere to blast out 10000-volt lightning bolts.",
+    "weigth": 24.5,
+    "height": 0.8,
+    "species": "Lightning"
+  },
+  {
+    "name": "flareon",
+    "type": ["fire"],
+    "pokedexEntry":
+      "When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",
+    "weigth": 25.0,
+    "height": 0.9,
+    "species": "Flame"
+  },
+  {
+    "name": "porygon",
+    "type": ["normal"],
+    "pokedexEntry":
+      "A POKéMON that consists entirely of programming code. Capable of moving freely in cyberspace.",
+    "weigth": 36.5,
+    "height": 0.8,
+    "species": "Virtual"
+  },
+  {
+    "name": "omanyte",
+    "type": ["rock", "water"],
+    "pokedexEntry":
+      "Although long extinct, in rare cases, it can be genetically resurrected from fossils.",
+    "weigth": 7.5,
+    "height": 0.4,
+    "species": "Spiral"
+  },
+  {
+    "name": "omastar",
+    "type": ["rock", "water"],
+    "pokedexEntry":
+      "A prehistoric POKéMON that died out when its heavy shell made it impossible to catch prey.",
+    "weigth": 35.0,
+    "height": 1.0,
+    "species": "Spiral"
+  },
+  {
+    "name": "kabuto",
+    "type": ["rock", "water"],
+    "pokedexEntry":
+      "A POKéMON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
+    "weigth": 11.5,
+    "height": 0.5,
+    "species": "Shellfish"
+  },
+  {
+    "name": "kabutops",
+    "type": ["rock", "water"],
+    "pokedexEntry":
+      "Its sleek shape is perfect for swimming. It slashes prey with its claws and drains the body fluids.",
+    "weigth": 40.5,
+    "height": 1.3,
+    "species": "Shellfish"
+  },
+  {
+    "name": "aerodactyl",
+    "type": ["rock", "flying"],
+    "pokedexEntry":
+      "A ferocious, prehistoric POKéMON that goes for the enemy's throat with its serrated saw-like fangs.",
+    "weigth": 59.0,
+    "height": 1.8,
+    "species": "Fossil"
+  },
+  {
+    "name": "snorlax",
+    "type": ["normal"],
+    "pokedexEntry":
+      "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
+    "weigth": 460.0,
+    "height": 2.1,
+    "species": "Sleeping"
+  },
+  {
+    "name": "articuno",
+    "type": ["ice", "flying"],
+    "pokedexEntry":
+      "A legendary bird POKéMON that is said to appear to doomed people who are lost in icy mountains.",
+    "weigth": 55.4,
+    "height": 1.7,
+    "species": "Freeze"
+  },
+  {
+    "name": "zapdos",
+    "type": ["electric", "flying"],
+    "pokedexEntry":
+      "A legendary bird POKéMON that is said to appear from clouds while dropping enormous lightning bolts.",
+    "weigth": 52.6,
+    "height": 1.6,
+    "species": "Electric"
+  },
+  {
+    "name": "moltres",
+    "type": ["fire", "flying"],
+    "pokedexEntry":
+      "Known as the legendary bird of fire. Every flap of its wings creates a dazzling flash of flames.",
+    "weigth": 60.0,
+    "height": 2.0,
+    "species": "Flame"
+  },
+  {
+    "name": "dratini",
+    "type": ["dragon"],
+    "pokedexEntry":
+      "Long considered a mythical POKéMON until recently when a small colony was found living underwater.",
+    "weigth": 3.3,
+    "height": 1.8,
+    "species": "Dragon"
+  },
+  {
+    "name": "dragonair",
+    "type": ["dragon"],
+    "pokedexEntry":
+      "A mystical POKéMON that exudes a gentle aura. Has the ability to change climate conditions.",
+    "weigth": 16.5,
+    "height": 4.0,
+    "species": "Dragon"
+  },
+  {
+    "name": "dragonite",
+    "type": ["dragon", "flying"],
+    "pokedexEntry":
+      "An extremely rarely seen marine POKéMON. Its intelligence is said to match that of humans.",
+    "weigth": 210.0,
+    "height": 2.2,
+    "species": "Dragon"
+  },
+  {
+    "name": "mewtwo",
+    "type": ["psychic"],
+    "pokedexEntry":
+      "It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.",
+    "weigth": 122.0,
+    "height": 2.0,
+    "species": "Genetic"
+  },
+  {
+    "name": "mew",
+    "type": ["psychic"],
+    "pokedexEntry":
+      "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+    "weigth": 4.0,
+    "height": 0.4,
+    "species": "New Species"
+  }
+]

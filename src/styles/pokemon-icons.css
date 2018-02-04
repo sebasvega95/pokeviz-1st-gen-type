@@ -1,0 +1,21 @@
+.pokemon-icon-animated {
+  animation-duration: 0.3s;
+  animation-fill-mode: both;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+@keyframes pokemon-icon-bounce {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+}
+
+.pokemon-icon-bounce:hover {
+  animation-name: pokemon-icon-bounce;
+  cursor: pointer;
+}
