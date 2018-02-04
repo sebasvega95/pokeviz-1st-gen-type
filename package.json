@@ -1,6 +1,7 @@
 {
   "name": "pokemon-gen1-types-viz",
   "version": "0.1.0",
+  "homepage": "http://sebasvega95.github.io/pokeviz-1st-gen-type",
   "private": true,
   "dependencies": {
     "@types/d3": "^4.12.0",
@@ -9,20 +10,22 @@
     "react-dom": "^16.2.0",
     "react-scripts-ts": "2.13.0",
     "semantic-ui-css": "^2.2.14",
-    "semantic-ui-react": "^0.77.2",
-    "svg-partial-circle": "^0.2.0"
+    "semantic-ui-react": "^0.77.2"
   },
   "scripts": {
     "start": "react-scripts-ts start",
     "build": "react-scripts-ts build",
     "test": "react-scripts-ts test --env=jsdom",
-    "eject": "react-scripts-ts eject"
+    "eject": "react-scripts-ts eject",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
     "@types/jest": "^22.1.1",
     "@types/node": "^9.4.0",
     "@types/react": "^16.0.36",
     "@types/react-dom": "^16.0.3",
+    "gh-pages": "^1.1.0",
     "typescript": "^2.7.1"
   }
 }

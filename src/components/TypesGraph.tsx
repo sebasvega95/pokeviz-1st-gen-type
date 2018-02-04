@@ -1,6 +1,5 @@
 import * as React from 'react';
 import * as d3 from 'd3';
-import partialCircle from 'svg-partial-circle';
 
 import '../styles/pokemon-icons.css';
 
@@ -38,6 +37,28 @@ const closePopupStyle = {
 interface Props {
   width: string;
   hierarchicalData: HierarchicalData;
+}
+
+function partialCircle(
+  cx: number,
+  cy: number,
+  r: number,
+  start: number,
+  end: number
+) {
+  const length = end - start;
+  if (length === 0) {
+    return [];
+  }
+
+  const fromX = r * Math.cos(start) + cx;
+  const fromY = r * Math.sin(start) + cy;
+  const toX = r * Math.cos(end) + cx;
+  const toY = r * Math.sin(end) + cy;
+  const large = Math.abs(length) <= Math.PI ? '0' : '1';
+  const sweep = length < 0 ? '0' : '1';
+
+  return [['M', fromX, fromY], ['A', r, r, 0, large, sweep, toX, toY]];
 }
 
 function halfCirclePath(
